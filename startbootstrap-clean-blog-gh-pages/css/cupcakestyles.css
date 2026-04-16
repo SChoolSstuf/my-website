@@ -1,0 +1,17 @@
+body {
+    background-color: #f6eff2;
+    font-family: Arial;
+    border: 5px solid rgb(242, 184, 244);
+    margin: 20px;
+    padding: 15px;
+}
+
+h1 {
+    color: #d63384;
+    font-weight:bold;
+}
+
+h2 {
+    color: #c2185b;
+}
+
